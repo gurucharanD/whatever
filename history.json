@@ -1,0 +1,65 @@
+[
+  {
+    "surveyDate": "2019-02-01",
+    "units": 250,
+    "rentPerunit": 111,
+    "occupancyrate": 100,
+    "dataSource": "Yardi",
+    "isSameStore": false,
+    "isIncluded": true
+  },
+  {
+    "surveyDate": "2019-02-01",
+    "units": 250,
+    "rentPerunit": 111,
+    "occupancyrate": 100,
+    "dataSource": "Axio",
+    "isSameStore": false,
+    "isIncluded": false
+  },
+  {
+    "surveyDate": "2020-02-01",
+    "units": 250,
+    "rentPerunit": 111,
+    "occupancyrate": 100,
+    "dataSource": "Axio",
+    "isSameStore": false,
+    "isIncluded": false
+  },
+  {
+    "surveyDate": "2020-02-01",
+    "units": 250,
+    "rentPerunit": 10000000,
+    "occupancyrate": 100,
+    "dataSource": "Yardi",
+    "isSameStore": true,
+    "isIncluded": true
+  },
+  {
+    "surveyDate": "2019-03-01",
+    "units": 250,
+    "rentPerunit": 10000000,
+    "occupancyrate": 100,
+    "dataSource": "Yardi",
+    "isSameStore": false,
+    "isIncluded": true
+  },
+  {
+    "surveyDate": "2020-03-01",
+    "units": 250,
+    "rentPerunit": 10000000,
+    "occupancyrate": 100,
+    "dataSource": "Axio",
+    "isSameStore": false,
+    "isIncluded": false
+  },
+  {
+    "surveyDate": "2020-03-01",
+    "units": 250,
+    "rentPerunit": 555,
+    "occupancyrate": 100,
+    "dataSource": "Yardi",
+    "isSameStore": true,
+    "isIncluded": true
+  }
+]
